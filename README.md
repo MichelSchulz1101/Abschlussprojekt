@@ -27,6 +27,12 @@ https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita
 Datenverarbeitung: 
 Die Daten wurden als CSV-Dateien gespeichert und mit Power BI Transvormiert und bereinigt.
 
+## Dashboard
+
+Um das Dashoard Anzeigen zu lassen muss man sich bei Microsoft Power BI Services anmelden und folgenden Link verwenden.
+
+https://app.powerbi.com/links/WnS-_B9UTI?ctid=3f997f44-998e-40ab-a814-4db66712c837&pbi_source=linkShare&bookmarkGuid=55190887-e8c6-451e-ae1b-c9bd7820ee34
+
 ### Erstellt mit
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
