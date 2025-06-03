@@ -1,8 +1,16 @@
 
-# Abschlussprojekt
+# Mental Health and Lifestyle
 
-Dieses Repository enthält verschiedene Materialien und Ressourcen rund um das **Abschlussprojekt**.
+Dieses Repository enthält verschiedene Materialien und Ressourcen rund um das Thema
+**Mental Health and Lifestyle**.
 Hier findest du Code-Beispiele, Erklärungen und Dokumentationen zum Abschlussprojekt
+
+### Built With
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](#)
+
+
 # Erste Schritte
 
 *Windows*
@@ -10,7 +18,7 @@ Hier findest du Code-Beispiele, Erklärungen und Dokumentationen zum Abschlusspr
 - Python 3 oder höhere Version installieren
 - Repository klonen:
   
-  git clone  `git@github.com:Olexandr-Andriyenko/abschlussprojekt.git` <project_name>
+  git clone  `git@github.com:MichelSchulz1101/Abschlussprojekt.git` <project_name>
   
 - Gehe dann in das Projektverzeichnis:
   
@@ -26,7 +34,7 @@ Hier findest du Code-Beispiele, Erklärungen und Dokumentationen zum Abschlusspr
   
 - Abhängigkeiten installieren:
   
-  pip install -r requirements.txt
+  Benötigte Module stehen als Markdown oben im code
   
 
 *MacOS*
@@ -34,7 +42,7 @@ Hier findest du Code-Beispiele, Erklärungen und Dokumentationen zum Abschlusspr
 - Python 3 oder höhere Version installieren
 - Repository klonen:
   
-  git clone  `git@github.com:Olexandr-Andriyenko/abschlussprojekt.git` <project_name>
+  git clone  `git@github.com:MichelSchulz1101/Abschlussprojekt.git` <project_name>
   
 - Gehe dann in das Projektverzeichnis:
   
@@ -49,8 +57,22 @@ Hier findest du Code-Beispiele, Erklärungen und Dokumentationen zum Abschlusspr
   source .venv/bin/activate 
   
 - Abhängigkeiten installieren:
-  
-  pip install -r requirements.txt
+
+  Benötigte Module stehen als Markdown oben im code
+
+## Contact
+
+Michel Schult
+E-mail: michelschulz2005@gmail.com
   
  
- Weitere Schritte befinden sich als Markdown Zeile im code
+
+
+
+
+
+
+
+
+
+
