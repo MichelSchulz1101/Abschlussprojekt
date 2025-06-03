@@ -86,7 +86,8 @@ Die Daten wurden als CSV-Dateien gespeichert und mit Power BI Transvormiert und 
 
 ## Kontakt
 
-Michel Schult
+Michel Schulz
+
 E-mail: michelschulz2005@gmail.com
   
  
