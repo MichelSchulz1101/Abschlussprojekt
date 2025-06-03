@@ -6,7 +6,9 @@ Dieses Repository enthält verschiedene Materialien und Ressourcen rund um das T
 Hier findest du Code-Beispiele, Erklärungen und Dokumentationen zum Abschlussprojekt
 
 ### Built With
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](#)
 
@@ -76,3 +78,5 @@ E-mail: michelschulz2005@gmail.com
 
 
 
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/
